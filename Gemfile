@@ -10,4 +10,4 @@ gem "erubis"
 gem "pg"
 gem "pry"
 
-ruby "2.7.0"
+ruby "3.0.0"
